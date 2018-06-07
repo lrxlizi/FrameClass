@@ -30,6 +30,7 @@
 
 /* Begin PBXFileReference section */
 		1ED7AFAFB3DED48D2B47505A /* Pods-FrameClass.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FrameClass.release.xcconfig"; path = "Pods/Target Support Files/Pods-FrameClass/Pods-FrameClass.release.xcconfig"; sourceTree = "<group>"; };
+		6A5CD4E420C8D16900C21AA0 /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 		6A9DDBC020C7E09A00F05477 /* FrameClass.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FrameClass.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A9DDBC320C7E09A00F05477 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		6A9DDBC420C7E09A00F05477 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -127,6 +128,7 @@
 			children = (
 				6A9DDBE820C7E11100F05477 /* FrameClass.h */,
 				6A9DDBE920C7E11100F05477 /* FrameClass.m */,
+				6A5CD4E420C8D16900C21AA0 /* Header.h */,
 			);
 			path = FrameClass;
 			sourceTree = "<group>";

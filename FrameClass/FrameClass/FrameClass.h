@@ -10,7 +10,8 @@
 /**masnory约束*/
 
 #import <Foundation/Foundation.h>
-#import <Masonry.h>
+#import <UIKit/UIKit.h>
+#import "Header.h"
 
 @interface FrameClass : NSObject
 
